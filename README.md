@@ -3,7 +3,7 @@
 ## [Video demo](https://youtu.be/X-79IL7RC6Y)
 
 This is a simple game called 'shark'.<br>
-The objective is to reach the flag in each randomly generated level<br>.
+The objective is to reach the flag in each randomly generated level.<br>
 <br>
 You can use WASD to move 1 tile at a time. If you hold shift, you will "dash", moving 2 tiles at a time, phasing through the first tile.<br>
 Touching a colored tile will kill you, and touching an arrow will push you one tile in the direction that it is pointing.<br>
